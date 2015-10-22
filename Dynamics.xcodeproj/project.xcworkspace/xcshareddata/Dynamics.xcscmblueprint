@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "16CD91C216127CF171362ACFF4EC5F62DA3AB397",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "16CD91C216127CF171362ACFF4EC5F62DA3AB397" : 0,
+    "9FDF82CD32C56B630D912DCB856BE2170C20B488" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "48D11D79-3FF5-49C7-A281-C9CF51F1CC41",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "16CD91C216127CF171362ACFF4EC5F62DA3AB397" : "ios7ptl\/",
+    "9FDF82CD32C56B630D912DCB856BE2170C20B488" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Dynamics",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ch19-dynamics\/Dynamics\/Dynamics.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/iosptl\/ios7ptl.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "16CD91C216127CF171362ACFF4EC5F62DA3AB397"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/alexluan\/Child.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9FDF82CD32C56B630D912DCB856BE2170C20B488"
+    }
+  ]
+}
